@@ -7,7 +7,7 @@
 
   ---
 
-  <p style="font-size: 18px; color: black; width: 75%; margin: 0 auto; text-align: center;">I'm a passionate programmer who enjoys learning and exploring various technologies. I love creating projects that challenge me and allow me to grow as a developer.</p>
+  <p style="color: black; margin: 0 auto; text-align: center;">I'm a passionate programmer who enjoys learning and exploring various technologies. I love creating projects that challenge me and allow me to grow as a developer.</p>
 
   ### Technologies and tools I use:
 
