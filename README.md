@@ -1,4 +1,4 @@
-<div style="background-color: grey; padding: 20px;">
+<div background-color="grey">
   <div align="center">
     <a href="https://github.com/Akshay090/svg-banners">
       <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Hi,%20I'm%20Cristian%20Mir%20&width=700&height=100" alt="SVG Banners">
@@ -7,7 +7,7 @@
 
   ---
 
-  <div style="color: black;" align="center">I'm a passionate programmer who enjoys learning and exploring various technologies. I love creating projects that challenge me and allow me to grow as a developer.</div>
+  <div align="center">I'm a passionate programmer who enjoys learning and exploring various technologies. I love creating projects that challenge me and allow me to grow as a developer.</div>
 
   ### Technologies and tools I use:
 
