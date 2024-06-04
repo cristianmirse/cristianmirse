@@ -1,4 +1,9 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi,%20I'm%20Cristian%20Mir%20&width=700&height=100)](https://github.com/Akshay090/svg-banners)
+<div align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Hi,%20I'm%20Cristian%20Mir%20&width=700&height=100" alt="SVG Banners">
+  </a>
+</div>
+
 
 
 I'm a passionate programmer who enjoys learning and exploring various technologies. I love creating projects that challenge me and allow me to grow as a developer.
