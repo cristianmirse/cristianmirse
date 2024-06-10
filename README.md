@@ -1,7 +1,7 @@
 <div>
   <div align="center">
     <a href="https://github.com/Akshay090/svg-banners">
-      <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Hi,%20I'm%20Cristian%20Mir%20&width=700&height=100" alt="SVG Banners">
+      <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Hi,%20I'm%20Cristian%20&width=700&height=100" alt="SVG Banners">
     </a>
   </div>
 
